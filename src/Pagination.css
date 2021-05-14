@@ -1,0 +1,10 @@
+.pagination-ul {
+    display: table !important;
+  }
+  .pagination-ul>li {
+    display: table-cell !important;
+  }
+
+  nav{
+      background-color: whitesmoke;
+  }
